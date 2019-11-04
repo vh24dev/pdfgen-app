@@ -1,0 +1,10 @@
+C:\Users\USER.WIN10-NB80\Desktop\vh24-pdf\bin\Debug\netcoreapp2.2\dotnet_pdf.deps.json
+C:\Users\USER.WIN10-NB80\Desktop\vh24-pdf\bin\Debug\netcoreapp2.2\dotnet_pdf.runtimeconfig.json
+C:\Users\USER.WIN10-NB80\Desktop\vh24-pdf\bin\Debug\netcoreapp2.2\dotnet_pdf.runtimeconfig.dev.json
+C:\Users\USER.WIN10-NB80\Desktop\vh24-pdf\bin\Debug\netcoreapp2.2\dotnet_pdf.dll
+C:\Users\USER.WIN10-NB80\Desktop\vh24-pdf\bin\Debug\netcoreapp2.2\dotnet_pdf.pdb
+C:\Users\USER.WIN10-NB80\Desktop\vh24-pdf\obj\Debug\netcoreapp2.2\dotnet_pdf.csprojAssemblyReference.cache
+C:\Users\USER.WIN10-NB80\Desktop\vh24-pdf\obj\Debug\netcoreapp2.2\dotnet_pdf.AssemblyInfoInputs.cache
+C:\Users\USER.WIN10-NB80\Desktop\vh24-pdf\obj\Debug\netcoreapp2.2\dotnet_pdf.AssemblyInfo.cs
+C:\Users\USER.WIN10-NB80\Desktop\vh24-pdf\obj\Debug\netcoreapp2.2\dotnet_pdf.dll
+C:\Users\USER.WIN10-NB80\Desktop\vh24-pdf\obj\Debug\netcoreapp2.2\dotnet_pdf.pdb
